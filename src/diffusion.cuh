@@ -1,0 +1,3 @@
+namespace DiffusionSimulation {
+    void RunDiffusion();
+}
